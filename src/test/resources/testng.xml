@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="图灵商城基础版项目后台管理系统">
+    <test name="后台用户登录1">
+        <classes>
+            <class name="com.athena.StepTest"></class>
+        </classes>
+
+    </test>
+
+
+</suite>
