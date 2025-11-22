@@ -38,5 +38,10 @@
             <class name="com.athena.TestAPIWithError7"></class>
         </classes>
     </test>
+    <test name="测试-AllureStepTest9">
+        <classes>
+            <class name="com.athena.AllureStepTest9"></class>
+        </classes>
+    </test>
 
 </suite>
